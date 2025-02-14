@@ -1,1 +1,1 @@
-# LIEC-2022
+# Laboratório de Introdução à Engenharia de Computação
